@@ -204,3 +204,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+print('Goodbye everybody! This is a Test for the GitHub project!')
